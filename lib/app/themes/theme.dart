@@ -11,7 +11,7 @@ class Themes {
                 color: lightAppBarTextColor,
                 fontSize: 18,
                 fontWeight: FontWeight.bold)),
-        scaffoldBackgroundColor: lightScaffoldBgColor,
+        scaffoldBackgroundColor: Colors.white,
         primaryTextTheme:
             TextTheme(bodyText1: TextStyle(color: lightH1TextColor)));
   }
