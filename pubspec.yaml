@@ -10,6 +10,7 @@ dependencies:
   get: 4.6.1
   flutter: 
     sdk: flutter
+  flutter_svg: ^1.0.1
 
 dev_dependencies: 
   flutter_lints: ^1.0.0
@@ -33,4 +34,5 @@ flutter:
 
   assets:
     - assets/
+    - assets/images/
     - assets/images/patika_logo.png

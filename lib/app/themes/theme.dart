@@ -13,7 +13,7 @@ class Themes {
                 fontWeight: FontWeight.bold)),
         scaffoldBackgroundColor: Colors.white,
         primaryTextTheme:
-            TextTheme(bodyText1: TextStyle(color: lightH1TextColor)));
+            TextTheme(bodyText1: TextStyle(color: lightTextColor)));
   }
 
   static ThemeData darkTheme() {
